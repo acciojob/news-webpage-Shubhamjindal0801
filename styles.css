@@ -10,6 +10,7 @@
 }
 body{
 	background-color:#f5f5f5;
+	text-align:center;
 }
 .box1{
     width:200px;
@@ -25,12 +26,6 @@ body{
     background-color: white;
     border-radius: 15px;
     padding: 15px;
-}
-.box2 h3,p{
-    text-align: center;
-}
-.box3 h3,img{
-    text-align: center;
 }
 .box3{
     width: 250px;
